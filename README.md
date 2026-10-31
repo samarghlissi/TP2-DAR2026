@@ -129,15 +129,6 @@ Au lieu d'envoyer trois chaînes, le client envoie **un seul objet** `Operation`
 
 ---
 
-## 7. Dépôt GitHub
 
-```bash
-git init
-git add .
-git commit -m "TP2 : Activités 2-1 et 2-2"
-git branch -M main
-git remote add origin <URL_DU_REPOSITORY>
-git push -u origin main
-```
 
 **Lien du repository :** `<à compléter>`
